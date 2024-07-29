@@ -1,0 +1,20 @@
+cursos medicos
+mediatria
+cardiologia
+reumatologia (curso 2 meses)
+
+curso gratis anestesiologia(una semana)
+
+crear cursos
+
+realizar evaluaciones, subir pdf, materiales
+
+dura 2 meses, 8 temas
+crear evaluacion, puntaje con ranking
+consultar todo
+
+cliente decide el inicio de curso
+boton pagar, para matricula, cada lunes (se pueden comprar varios cursos)
+generar reportes de cada curso, estudiantes cantidad, actividad
+
+banco de preguntas, se compra una vez, se selecionan que preguntas
